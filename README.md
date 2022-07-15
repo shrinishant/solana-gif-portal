@@ -10,7 +10,7 @@ Make sure you've these installed :
   rustup --version
   rustc --version       {rust compiler}
   cargo --version       {rust packet manager}
-  solana --version      {https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool?utm_source=buildspace.so&utm_medium=buildspace_project}
+  solana --version      {https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool}
 ```
 
 Now, run the following commands :
